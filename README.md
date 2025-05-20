@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nay Thu Htun</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 
-- 🌱 I’m currently learning **IT** - 💬 Ask me about **Web development** - 📫
-How to reach me **naythu1943@gmail.com**
+<h3 align="left">My current activities</h3>
+<ul>
+  <li>🌱 I’m currently learning **IT**</li>
+  <li>💬 Ask me about **Web development**</li>
+  <li>📫 How to reach me **naythu1943@gmail.com**</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -58,14 +62,6 @@ How to reach me **naythu1943@gmail.com**
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -98,6 +94,14 @@ How to reach me **naythu1943@gmail.com**
       height="40"
     />
   </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -106,7 +110,6 @@ How to reach me **naythu1943@gmail.com**
       height="40"
     />
   </a>
-
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
