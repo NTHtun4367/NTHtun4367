@@ -3,9 +3,9 @@
 
 <h3 align="left">My current activities</h3>
 <ul>
-  <li>🌱 I’m currently learning **IT**</li>
-  <li>💬 Ask me about **Web development**</li>
-  <li>📫 How to reach me **naythu1943@gmail.com**</li>
+  <li>🌱 I’m currently learning <b>IT</b></li>
+  <li>💬 Ask me about <b>Web development</b></li>
+  <li>📫 How to reach me <b>naythu1943@gmail.com</b></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
