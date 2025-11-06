@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nay Thu Htun</h1>
-<h3 align="center">💻 Full-Stack Developer</h3>
+<h3 align="center">💻 Junior Full-Stack Developer</h3>
 
 ### 👨‍💻 About Me  
 I’m **Nay Thu Htun**, a 21-year-old and motivated **Junior Full-Stack Developer** passionate about crafting functional, modern, and meaningful web applications.  I love exploring new technologies, improving my skills, and bringing ideas to life through clean and efficient code.
@@ -19,7 +19,7 @@ I’m **Nay Thu Htun**, a 21-year-old and motivated **Junior Full-Stack Develope
 
 ---
 
-### 🧰 Tech Stack  
+### 🚀 Tech Stack  
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
