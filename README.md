@@ -2,14 +2,12 @@
   <h1>Hi 👋, I'm Nay Thu Htun</h1>
   <p align="center">
     <strong>Full-Stack Developer | Bridging University Foundation with Industry Standards</strong>
-    <br />
-    <a href="https://naythuhtun.vercel.app" target="_blank"><strong>naythuhtun.vercel.app</strong></a>
   </p>
 
   <p align="center">
-    <a href="https://naythuhtun.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/nay-thu-htun-372704318"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:naythu1943@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://naythuhtun.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/nay-thu-htun-372704318" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:naythu1943@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
