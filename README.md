@@ -8,7 +8,7 @@
 Exploring AI/ML to create smarter solutions to real-world problems.
 
 <p>
-  <a href="https://naythuhtun.vercel.app">
+  <a href="https://nay-thu-htun.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/nay-thu-htun">
